@@ -1,0 +1,4 @@
+interface:
+  display_name: "CHARMM-GUI Complex Prep"
+  short_description: "Prepare continuous, clash-relieved receptor-LIG complexes for CHARMM-GUI"
+  default_prompt: "Prepare my receptor-ligand inputs as a validated, continuous-coordinate CHARMM-GUI complex with matching LIG rtf/prm files."
